@@ -1,5 +1,5 @@
 # Plagiarism-Detector
-Built a Plagiarism Detector using some Machine Learning Techniques in Python, which detects the similarity between any two textudocumentsent or any other Code/Essays.
+Built a Plagiarism Detector using some Machine Learning Techniques in Python, which detects the similarity between any two textual document or any other Code/Essays.
 
 The technique that I used to check the similarity between the files is "Cosine-Similarity".
 
